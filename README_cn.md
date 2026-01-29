@@ -8,7 +8,40 @@
 
 ## 产品概述
 
-MechDog是幻尔科技开发的先进四足机器人。配备高精度舵机和智能控制系统，MechDog能够执行各种复杂的动作和步态。支持Scratch、Python和Arduino等多种编程平台，为机器人教育和研究提供了优秀的平台。
+### 关于MechDog
+
+我们创造MechDog的愿景很明确：打造一款真正易用、高性能且充满乐趣的四足机器人。通过结合精密机械、开源代码和初学者友好的编程生态系统，我们致力于为所有人降低机器人技术的门槛——从使用Scratch迈出第一步的学生，到使用Arduino制作原型的创客，再到使用Python探索复杂行为的工程师。这不仅仅是一个套件，更是一个紧凑、灵活的平台，旨在将您最疯狂的机器人创意变为现实。
+
+### 为敏捷运动和实践学习而生
+
+MechDog的核心是一项易于使用的工程奇迹。它由8个高速空心杯舵机驱动，提供卓越的扭矩和响应速度，实现快速稳定的行走。其逼真敏捷性的秘密在于内置的逆运动学算法，运行在强大的ESP32控制器上。这使您能够实时控制机器狗的身体位置和方向，轻松调整步态、方向和姿态，实现流畅自然的运动。
+
+### 开放、可改装、无限扩展
+
+作为一个完全开源的平台，MechDog旨在随着您的技能成长。它支持多种编程方式：使用Scratch（WonderCode）可视化逻辑，使用Arduino（C/C++）深入嵌入式控制，或使用Python实现高级AI和自动化。创造力不止于代码——MechDog配备超声波、IMU等传感器的扩展接口，其结构兼容LEGO®组件，邀请您进行无限的物理改装和项目创意。
+
+通过我们的[MechDog教程和资源](https://docs.hiwonder.com/projects/MechDog/en/latest/)开始，让您的机器人伙伴活起来！
+
+## 演示视频
+
+### 主要教程
+- **MechDog机器狗：可编程的AI开源机器人！**: [观看](https://www.youtube.com/watch?v=c7XJqjFmjto)
+- **micro:bit扩展：解锁更多创意**: [观看](https://www.youtube.com/watch?v=bA8lJjgmJfQ)
+
+### 你的创意，付诸实践
+- **看到最后，MechDog的"摸头"反应！😱**: [观看](https://www.youtube.com/shorts/TIl1bVzLXSo)
+- **下一代仿生学！🔥感知热量，遇冷颤抖**: [观看](https://www.youtube.com/shorts/uXXYbJqR3QU)
+- **从MechDog到飞马，瞬间变身！🐕➡️🦄**: [观看](https://www.youtube.com/shorts/lTiJXxEz9oM)
+- **"愤怒公牛"模式或机械臂是如何工作的？🤔**: [观看](https://www.youtube.com/shorts/LW5bXi3f9iw)
+- **我给它编程了心跳。💓**: [观看](https://www.youtube.com/shorts/oZzEkcADOkg)
+- **是狗还是投石机？两者兼得！🐕🔥**: [观看](https://www.youtube.com/shorts/WAlcMMxVesI)
+
+## Hackster项目
+
+- **深入探索Hiwonder MechDog的改装**: [阅读](https://www.hackster.io/HiwonderRobot/a-deep-dive-into-hacking-the-hiwonder-mechdog-a3f82f)
+- **从愤怒公牛到多任务处理：点燃你的MechDog！**: [阅读](https://www.hackster.io/HiwonderRobot/from-angry-bull-to-multi-tasker-ignite-your-mechdog-3cfbbf)
+- **如何打造温度感知的智能MechDog**: [阅读](https://www.hackster.io/HiwonderRobot/how-to-build-a-thermo-smart-mechdog-1cffb5)
+- **探索MechDog的LEGO和micro:bit扩展**: [阅读](https://www.hackster.io/HiwonderRobot/exploring-the-lego-and-micro-bit-expansion-of-mechdog-e0e5e9)
 
 ## 官方资源
 

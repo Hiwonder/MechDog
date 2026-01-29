@@ -8,7 +8,40 @@ English | [中文](https://github.com/Hiwonder/MechDog/blob/main/README_cn.md)
 
 ## Product Overview
 
-MechDog is an advanced quadruped robot developed by Hiwonder. Featuring high-precision servo motors and intelligent control systems, MechDog can perform various complex movements and gaits. With support for multiple programming platforms including Scratch, Python, and Arduino, it provides an excellent platform for robotics education and research.
+### About MechDog
+
+We created MechDog with a clear vision: to build a truly accessible, high-performance, and fun-to-tinker-with quadruped robot. By combining precise mechanics, open-source code, and a beginner-friendly programming ecosystem, we aim to lower the barrier to robotics for everyone—from students taking their first steps with Scratch, to makers prototyping with Arduino, to engineers exploring complex behaviors with Python. This is more than a kit; it's a compact, agile platform designed to bring your wildest robotic ideas to life.
+
+### Built for Agile Movement & Real-World Learning
+
+At its heart, MechDog is a marvel of accessible engineering. It's powered by 8 high-speed coreless servos that deliver exceptional torque and responsiveness, enabling swift and stable walking. The secret to its lifelike agility lies in the built-in inverse kinematics algorithms, which run on the capable ESP32 controller. This allows you to command the dog's body position and orientation in real-time, adjusting gait, direction, and posture with ease for remarkably fluid and natural movements.
+
+### Open, Hackable, and Infinitely Expandable
+
+As a fully open-source platform, MechDog is designed to grow with your skills. It welcomes a variety of programming approaches: visualize logic with Scratch (WonderCode), dive into embedded control with Arduino (C/C++), or implement advanced AI and automation with Python. Creativity doesn't stop at code—MechDog features expansion ports for ultrasonic, IMU, and other sensors, and its structure is compatible with LEGO® components, inviting endless physical modifications and project ideas.
+
+Get started with our [MechDog Tutorials & Resources](https://docs.hiwonder.com/projects/MechDog/en/latest/) to bring your robotic companion to life!
+
+## Demo Videos
+
+### Main Tutorials
+- **MechDog Robot DOG: AI Open Source Robot You Can Code!**: [Watch](https://www.youtube.com/watch?v=c7XJqjFmjto)
+- **microbit expansion: Unlocking More Creativity**: [Watch](https://www.youtube.com/watch?v=bA8lJjgmJfQ)
+
+### Your Ideas, In Action
+- **Watch till the end to see MechDog's "Head-Pet" reaction! 😱**: [Watch](https://www.youtube.com/shorts/TIl1bVzLXSo)
+- **Next-level bionics! 🔥Senses heat, shivers in the cold**: [Watch](https://www.youtube.com/shorts/uXXYbJqR3QU)
+- **From MechDog to Pegasus in seconds! 🐕➡️🦄**: [Watch](https://www.youtube.com/shorts/lTiJXxEz9oM)
+- **How "Angry Bull" mode or the Robot Arm works? 🤔**: [Watch](https://www.youtube.com/shorts/LW5bXi3f9iw)
+- **I programmed its heartbeat. 💓**: [Watch](https://www.youtube.com/shorts/oZzEkcADOkg)
+- **Dog or Catapult? Why not both! 🐕🔥**: [Watch](https://www.youtube.com/shorts/WAlcMMxVesI)
+
+## Hackster Projects
+
+- **A Deep Dive into Hacking the Hiwonder MechDog**: [Read](https://www.hackster.io/HiwonderRobot/a-deep-dive-into-hacking-the-hiwonder-mechdog-a3f82f)
+- **From Angry Bull to Multi-Tasker: Ignite Your MechDog!**: [Read](https://www.hackster.io/HiwonderRobot/from-angry-bull-to-multi-tasker-ignite-your-mechdog-3cfbbf)
+- **How to Build a Thermo-Smart MechDog**: [Read](https://www.hackster.io/HiwonderRobot/how-to-build-a-thermo-smart-mechdog-1cffb5)
+- **Exploring the LEGO and micro:bit Expansion of MechDog**: [Read](https://www.hackster.io/HiwonderRobot/exploring-the-lego-and-micro-bit-expansion-of-mechdog-e0e5e9)
 
 ## Official Resources
 
