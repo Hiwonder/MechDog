@@ -3,7 +3,7 @@
 English | [中文](https://github.com/Hiwonder/MechDog/blob/main/README_cn.md)
 
 <p align="center">
-  <img src="./sources/images/mechdog 1.png" alt="MechDog Logo" width="600"/>
+  <img src="./source/images/mechdog 1.png" alt="MechDog Logo" width="600"/>
 </p>
 
 ## Product Overview
@@ -13,7 +13,7 @@ English | [中文](https://github.com/Hiwonder/MechDog/blob/main/README_cn.md)
 We created MechDog with a clear vision: to build a truly accessible, high-performance, and fun-to-tinker-with quadruped robot. By combining precise mechanics, open-source code, and a beginner-friendly programming ecosystem, we aim to lower the barrier to robotics for everyone—from students taking their first steps with Scratch, to makers prototyping with Arduino, to engineers exploring complex behaviors with Python. This is more than a kit; it's a compact, agile platform designed to bring your wildest robotic ideas to life.
 
 <p align="center">
-  <img src="./sources/images/mechdog 2.png" alt="MechDog" width="600"/>
+  <img src="./source/images/mechdog 2.png" alt="MechDog" width="600"/>
 </p>
 
 ### Built for Agile Movement & Real-World Learning
@@ -21,7 +21,7 @@ We created MechDog with a clear vision: to build a truly accessible, high-perfor
 At its heart, MechDog is a marvel of accessible engineering. It's powered by 8 high-speed coreless servos that deliver exceptional torque and responsiveness, enabling swift and stable walking. The secret to its lifelike agility lies in the built-in inverse kinematics algorithms, which run on the capable ESP32 controller. This allows you to command the dog's body position and orientation in real-time, adjusting gait, direction, and posture with ease for remarkably fluid and natural movements.
 
 <p align="center">
-  <img src="./sources/images/mechdog 3.png" alt="MechDog" width="600"/>
+  <img src="./source/images/mechdog 3.png" alt="MechDog" width="600"/>
 </p>
 
 ### Open, Hackable, and Infinitely Expandable
